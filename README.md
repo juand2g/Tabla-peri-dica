@@ -1,2 +1,2 @@
-# Tabla-peri-dica
+# Tabla-periodica
 Tabla periódica-HTML5-CSS3
